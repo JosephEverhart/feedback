@@ -11,7 +11,7 @@
 ![avatar](http://tokenbank.skyfromwell.com/feedback/step_3.png)
 ## 第四步
 等待回复
-![avatar](http://tokenbank.skyfromwell.com/feedback/step_3.png)
+![avatar](http://tokenbank.skyfromwell.com/feedback/step_4.png)
 
 ## 第五步
 完成
